@@ -1,5 +1,3 @@
-package tenniskata.match;
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -7,6 +5,9 @@ import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 import tenniskata.handler.TennisMatchHandler;
+import tenniskata.match.Player;
+import tenniskata.match.ScoreBoard;
+import tenniskata.match.TennisMatch;
 
 @TestMethodOrder(MethodOrderer.Random.class)
 class TennisMatchTest {
