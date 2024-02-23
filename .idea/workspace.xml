@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e06e9da-5054-4a09-a30a-4fe4a906a6c4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/handler/InputHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/handler/TennisMatchHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/match/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/match/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/match/TennisMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/validator/CharacterInputValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/validator/EmptyInputStringValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/validator/IValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/validator/InputValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tenniskata/validator/MinimumLengthInputValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tenniskata/match/InputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tenniskata/match/TennisMatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tenniskata/match/ValidatorsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/input.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2cOksV0SZa96m4BWydmlC14ClWJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last.edited.regexp&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tenniskata.tennismatch" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tenniskata.match" />
+      <recent name="tenniskata.validator" />
+      <recent name="tenniskata.handler" />
+      <recent name="tenniskata" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in tennis-kata-jeanpeiter">
+    <configuration name="All in tennis-kata-jeanpeiter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata-jeanpeiter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata-jeanpeiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenniskata.match.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tenniskata.match" />
+      <option name="MAIN_CLASS_NAME" value="tenniskata.match.ValidatorsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorsTest.testCharacterInputInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata-jeanpeiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenniskata.match.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tenniskata.match" />
+      <option name="MAIN_CLASS_NAME" value="tenniskata.match.ValidatorsTest" />
+      <option name="METHOD_NAME" value="testCharacterInputInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorsTest.testEmptyInputInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata-jeanpeiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenniskata.match.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tenniskata.match" />
+      <option name="MAIN_CLASS_NAME" value="tenniskata.match.ValidatorsTest" />
+      <option name="METHOD_NAME" value="testEmptyInputInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidatorsTest.testInputLengthInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tennis-kata-jeanpeiter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenniskata.match.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tenniskata.match" />
+      <option name="MAIN_CLASS_NAME" value="tenniskata.match.ValidatorsTest" />
+      <option name="METHOD_NAME" value="testInputLengthInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in tennis-kata-jeanpeiter" />
+        <item itemvalue="JUnit.ValidatorsTest" />
+        <item itemvalue="JUnit.ValidatorsTest.testEmptyInputInvalid" />
+        <item itemvalue="JUnit.ValidatorsTest.testInputLengthInvalid" />
+        <item itemvalue="JUnit.ValidatorsTest.testCharacterInputInvalid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e06e9da-5054-4a09-a30a-4fe4a906a6c4" name="Changes" comment="" />
+      <created>1707990220753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707990220753</updated>
+      <workItem from="1707990221715" duration="15452000" />
+      <workItem from="1708383725256" duration="12094000" />
+      <workItem from="1708564936070" duration="919000" />
+      <workItem from="1708643334282" duration="6854000" />
+      <workItem from="1708653913222" duration="1428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tennis_kata_jeanpeiter$All_in_tennis_kata_jeanpeiter.ic" NAME="All in tennis-kata-jeanpeiter Coverage Results" MODIFIED="1708655304729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/tennis_kata_jeanpeiter$ValidatorsTest_testEmptyInputInvalid.ic" NAME="ValidatorsTest.testEmptyInputInvalid Coverage Results" MODIFIED="1708655137273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tenniskata.match.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tennis_kata_jeanpeiter$ValidatorsTest.ic" NAME="ValidatorsTest Coverage Results" MODIFIED="1708655285845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tenniskata.match.*</FILTER>
+    </SUITE>
+  </component>
+</project>
