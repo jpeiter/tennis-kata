@@ -12,6 +12,7 @@ public class TennisMatch {
 
     public TennisMatch() {
         this.score = new HashMap<>();
+
         this.score.put(A, 0);
         this.score.put(B, 0);
     }
